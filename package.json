@@ -55,7 +55,9 @@
 		"lodash": "^4.16.2",
 		"readable-stream": "~2.2.2",
 		"setimmediate": ">= 1.0.1",
-		"xmlbuilder": "^3.0.0"
+		"xmlbuilder": "^3.0.0",
+		"xmldom": "^0.1.27",
+		"xpath": "0.0.27"
 	},
 	"devDependencies": {
 		"adm-zip": "^0.4.7",
